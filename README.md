@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/celalkhalilov-emoji-hub-mcp-badge.png)](https://mseep.ai/app/celalkhalilov-emoji-hub-mcp)
+
 # Emoji Hub MCP Server
 
 A Model Context Protocol (MCP) server that provides access to the Emoji Hub API, allowing you to retrieve emojis by category, group, or get random emojis.
